@@ -1,0 +1,22 @@
+__pycache__
+*.pyc
+.venv
+.env
+
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+__pycache__/
+db.sqlite3
+
+.DS_Store  # Mac only
+
+**/data
+**/venv
+
+*.log
+migrations
+
